@@ -17,6 +17,7 @@ AMAZON.StopIntent exit skill
 AMAZON.CancelIntent exit skill
 StarWarsIntent star wars
 LifelineIntent lifeline
+OpenDoorIntent open door
 MasterYodaIntent master yoda
 MasterAnakinIntent master anakin
 HeavyLightsaberIntent heavy lightsaber

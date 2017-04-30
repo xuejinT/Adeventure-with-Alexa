@@ -29,6 +29,12 @@
         "utterances": [
           "lifeline"
         ]
+      },
+      {
+        "sceneId": 12,
+        "utterances": [
+          "open door"
+        ]
       }
     ]
   },
@@ -327,5 +333,25 @@
         ]
       }
     ]
+  },
+  {
+    "id": 12,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Room",
+      "text": "You enter a room.",
+      "image": {
+        "smallImageUrl": null,
+        "largeImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You enter a room. What would you like to do?",
+      "prompt": ""
+    },
+    "options": []
   }
 ]

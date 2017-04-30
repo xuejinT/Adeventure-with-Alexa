@@ -31,6 +31,9 @@ module.exports = {
 	"LifelineIntent": function ( intent, session, request, response ) {
 		processUtterance( intent, session, request, response, "lifeline" )
 	},
+	"OpenDoorIntent": function ( intent, session, request, response ) {
+		processUtterance( intent, session, request, response, "open door" )
+	},
 	"MasterYodaIntent": function ( intent, session, request, response ) {
 		processUtterance( intent, session, request, response, "master yoda" )
 	},
