@@ -1,0 +1,12 @@
+/* */ 
+"format cjs";
+
+  this.click = function(e) {
+    alert('Hello!')
+  }.bind(this)
+
+
+  this.change = function(e) {
+    alert('Hello!')
+  }.bind(this)
+  var str = '/* str */'

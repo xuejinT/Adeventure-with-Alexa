@@ -1,0 +1,48 @@
+{
+  "name": "riot-cli",
+  "version": "2.4.1",
+  "description": "Riot command line utility",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "riot": "lib/index.js"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riot/cli.git"
+  },
+  "keywords": [
+    "riot",
+    "cli"
+  ],
+  "devDependencies": {
+    "coveralls": "^2.11.9",
+    "eslint": "^2.5.3",
+    "expect.js": "^0.3.1",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riot/cli/issues"
+  },
+  "homepage": "https://github.com/riot/cli#readme",
+  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com/)",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "chokidar": "^1.4.3",
+    "co": "^4.6.0",
+    "optionator": "^0.8.1",
+    "riot-compiler": "^2.3.*",
+    "rollup": "^0.25.7",
+    "shelljs": "^0.6.0"
+  }
+}

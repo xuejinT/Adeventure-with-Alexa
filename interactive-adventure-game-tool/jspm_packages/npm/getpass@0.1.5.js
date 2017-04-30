@@ -1,0 +1,1 @@
+module.exports = require("npm:getpass@0.1.5/lib/index.js");

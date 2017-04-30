@@ -1,0 +1,36 @@
+UnrecognizedIntent ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+UnrecognizedIntent ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense ThisIsPurposlyNonSense
+ResetStateIntent reset skill
+ResetStateIntent start again
+ResetStateIntent reset
+RestoreStateIntent resume skill
+RestoreStateIntent resume
+RepeatOptionsIntent repeat options
+RepeatSceneIntent repeat scene
+RepeatSceneIntent repeat
+GoBackIntent go back
+AMAZON.HelpIntent help
+AMAZON.StopIntent exit skill
+AMAZON.CancelIntent exit skill
+StarWarsIntent star wars
+LifelineIntent lifeline
+MasterYodaIntent master yoda
+MasterAnakinIntent master anakin
+HeavyLightsaberIntent heavy lightsaber
+LightLightsaberIntent light lightsaber
+LongLightsaberIntent long lightsaber
+ShortLightsaberIntent short lightsaber
+YesIntent yes
+YesIntent who are you
+YesIntent who is this
+YesIntent hello
+WhatHappenedIntent what happened
+WhatHappenedIntent was
+WhatHappenedIntent the varia
+WhatHappenedIntent varia
+WhatHappenedIntent are you ok
+AreYouAlrightIntent are you alright
+AreYouAlrightIntent are you ok

@@ -1,0 +1,8 @@
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:1:1: Unexpected reserved word import
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:1:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:1:19: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:1:24: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:336:1: Unexpected reserved word export
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:336:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:336:8: Unexpected reserved word default
+/Users/Anakinlee/.jspm/packages/npm/riot-route@2.3.16/dist/es6.route.js:336:16: Semi-colon expected

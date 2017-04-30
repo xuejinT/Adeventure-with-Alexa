@@ -1,0 +1,54 @@
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:6:1: Unexpected reserved word import
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:6:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:6:26: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:642:1: Unexpected reserved word export
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:642:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:642:8: Unexpected reserved word default
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/dist/es6.compiler.js:642:16: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:11:1: Unexpected reserved word import
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:11:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:11:26: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:22:1: Unexpected reserved word export
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:22:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:22:8: Unexpected reserved word default
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/src/_es6.js:22:16: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/html-blocks.js:10:16: Unexpected token 5
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/html-blocks.js:10:18: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/html-blocks.js:10:18: Unexpected token >
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/riotjs.getter-setter.js:5:5: Unexpected token set
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/riotjs.getter-setter.js:5:9: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/riotjs.getter-setter.js:5:18: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/riotjs.getter-setter.js:6:3: Unexpected token }
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/expect/unclosed-es6.js:4:10: Unexpected token )
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.comment.js:2:13: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.comment.js:11:26: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.getter-setter.js:5:5: Unexpected token set
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.getter-setter.js:5:9: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.getter-setter.js:5:18: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.getter-setter.js:6:3: Unexpected token }
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.method.js:1:13: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:1:13: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:4:12: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:5:12: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:9:12: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:15:6: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:18:3: Unexpected token .
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:18:4: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:22:4: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:24:4: Unexpected token .
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:24:6: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.methods-alt.js:32:4: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/fixtures/riotjs.single-line-method.js:1:13: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/parsers/js/mixed-js.js:2:12: Semi-colon expected
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-compiler@2.3.23/test/specs/parsers/js/raw.rawhtml.js:7:10: Semi-colon expected

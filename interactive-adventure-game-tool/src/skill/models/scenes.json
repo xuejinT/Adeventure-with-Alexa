@@ -1,0 +1,331 @@
+[
+  {
+    "id": 0,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Welcome",
+      "text": "Welcome to my Alexa Skill. To learn how to use this skill, say \"Help\".",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Welcome to my Alexa Skill. To learn how to use this skill, say \"Help\".",
+      "prompt": "If you want to try Star Wars story, say \"Star Wars\", or you can try Lifeline story, just say \"Lifeline\"."
+    },
+    "options": [
+      {
+        "utterances": [
+          "star wars"
+        ],
+        "sceneId": 1
+      },
+      {
+        "sceneId": 8,
+        "utterances": [
+          "lifeline"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Welcome",
+      "text": "Hi, I am your personal AI assistant. You are a little kid who was just chosen to be a Jedi Apprentice in the Jedi Temple. The first task for you is to listen to The Force, and tell me which Jedi master you want to follow.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Hi, I am your personal AI assistant. You are a little kid who was just chosen to be a Jedi Apprentice in the Jedi Temple. The first task for you is to listen to The Force, and tell me which Jedi master you want to follow. Tell me \"Master Yoda\" or \"Master Anakin\".",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "utterances": [
+          "master yoda"
+        ],
+        "sceneId": 2
+      },
+      {
+        "utterances": [
+          "master anakin"
+        ],
+        "sceneId": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Jedi Observatory",
+      "text": "You entered Jedi Observatory",
+      "prompt": "You followed Master Yoda into the Jedi Observatory. Here, he wants you to choose a lightsaber you like.",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You followed Master Yoda into the Jedi Observatory. Here, he wants you to choose a lightsaber you like.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 4,
+        "utterances": [
+          "heavy lightsaber"
+        ]
+      },
+      {
+        "sceneId": 5,
+        "utterances": [
+          "light lightsaber"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "color": "default",
+    "isHidden": false,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "President Office",
+      "text": "Senator Office.",
+      "prompt": "You followed Master Yoda into the Senator Office. Here, he wants you to choose a lightsaber you like.",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You followed Master Anakin into the Senator Office. Here, he wants you to choose a lightsaber you like. Tips: there is a hidden option for this question.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 6,
+        "utterances": [
+          "long lightsaber"
+        ]
+      },
+      {
+        "sceneId": 7,
+        "utterances": [
+          "short lightsaber"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "color": "green",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "heavy",
+      "text": "heavy saber",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You chose a heavy lightsaber. Your lightsaber is made of gold. You must have a heart of gold.",
+      "prompt": "Say \"Exit\" to exit the game. Say \"reset\" to restart the game."
+    },
+    "options": []
+  },
+  {
+    "id": 5,
+    "color": "yellow",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Light",
+      "text": "light lightsaber.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You chose a light lightsaber. You feel it floating over your hand.",
+      "prompt": "Say \"Exit\" to exit the game. Say \"reset\" to restart the game."
+    },
+    "options": []
+  },
+  {
+    "id": 6,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Long",
+      "text": "Long saber.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "You chose a long lightsaber. You can strike your enemies before they can reach you.",
+      "prompt": "Say \"Exit\" to exit the game. Say \"reset\" to restart the game."
+    },
+    "options": []
+  },
+  {
+    "id": 7,
+    "color": "red",
+    "isHidden": true,
+    "generateOptions": true,
+    "readPreviousOptions": true,
+    "card": {
+      "title": "Short",
+      "text": "Short saber.",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Congratulations! You found the hidden option. You chose a short lightsaber. You are better at stealth attack than other Jedi Knights.",
+      "prompt": "Say \"Exit\" to exit the game. Say \"reset\" to restart the game."
+    },
+    "options": []
+  },
+  {
+    "id": 8,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Hello?",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Hello? Is this thing working? Can anyone read me?",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 9,
+        "utterances": [
+          "yes",
+          "who are you",
+          "who is this",
+          "hello"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Thank god",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Oh, thank God! It's so good to have human contact! It's been hours! My name's Taylor. I am... was an astronaut on board the starship Varia.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 11,
+        "utterances": [
+          "what happened",
+          "was",
+          "the varia",
+          "varia",
+          "are you ok"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Complain",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Let's see. My ship just crashed in the middle of nowhere.\nNo one is hailing on this frequency, and I don't see any survivors other than me...\n...the least prepared person in existence for this sort of emergency!\nBut I got out of the whole mess with nothing more than a stubbed toe, so things are looking just peachy.\nThanks for asking.",
+      "prompt": ""
+    },
+    "options": []
+  },
+  {
+    "id": 11,
+    "color": "default",
+    "isHidden": false,
+    "generateOptions": true,
+    "readPreviousOptions": false,
+    "card": {
+      "title": "Crash",
+      "text": "",
+      "prompt": "",
+      "image": {
+        "largeImageUrl": null,
+        "smallImageUrl": null
+      }
+    },
+    "voice": {
+      "intro": "Our ship crashed on some moon.  I have no idea where. I managed to get to an escape pod, but I couldn't tell if anyone else made it into one.\nMy suit sensor tells me that the air here is breathable, at least, so that's nothing short of a miracle.But I've got no food or water rations on me.  The toolkit on the pod is about as basic as they come. I managed to get the pod's mobile transmitter working, but -- lucky you -- you seem to be the only one in range of the signal. Whoever and wherever you might be.",
+      "prompt": ""
+    },
+    "options": [
+      {
+        "sceneId": 10,
+        "utterances": [
+          "are you alright",
+          "are you ok"
+        ]
+      }
+    ]
+  }
+]

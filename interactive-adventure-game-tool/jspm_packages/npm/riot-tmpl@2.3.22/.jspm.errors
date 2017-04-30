@@ -1,0 +1,6 @@
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-tmpl@2.3.22/dist/es6.tmpl.js:18:1: Unexpected reserved word export
+/Users/Anakinlee/.jspm/packages/npm/riot-tmpl@2.3.22/dist/es6.tmpl.js:219:1: Unexpected reserved word export
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-tmpl@2.3.22/src/brackets.js:16:1: Unexpected reserved word export
+
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-tmpl@2.3.22/src/tmpl.js:16:1: Unexpected reserved word export

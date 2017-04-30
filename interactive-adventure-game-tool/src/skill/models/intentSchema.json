@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "intent": "UnrecognizedIntent"
+    },
+    {
+      "intent": "ResetStateIntent"
+    },
+    {
+      "intent": "RestoreStateIntent"
+    },
+    {
+      "intent": "RepeatOptionsIntent"
+    },
+    {
+      "intent": "RepeatSceneIntent"
+    },
+    {
+      "intent": "GoBackIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "StarWarsIntent"
+    },
+    {
+      "intent": "LifelineIntent"
+    },
+    {
+      "intent": "MasterYodaIntent"
+    },
+    {
+      "intent": "MasterAnakinIntent"
+    },
+    {
+      "intent": "HeavyLightsaberIntent"
+    },
+    {
+      "intent": "LightLightsaberIntent"
+    },
+    {
+      "intent": "LongLightsaberIntent"
+    },
+    {
+      "intent": "ShortLightsaberIntent"
+    },
+    {
+      "intent": "YesIntent"
+    },
+    {
+      "intent": "WhatHappenedIntent"
+    },
+    {
+      "intent": "AreYouAlrightIntent"
+    }
+  ]
+}

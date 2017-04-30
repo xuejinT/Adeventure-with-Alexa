@@ -1,0 +1,4 @@
+MultipleErrors: /Users/Anakinlee/.jspm/packages/npm/riot-observable@2.4.2/dist/es6.observable.js:156:1: Unexpected reserved word export
+/Users/Anakinlee/.jspm/packages/npm/riot-observable@2.4.2/dist/es6.observable.js:156:8: Semi-colon expected
+/Users/Anakinlee/.jspm/packages/npm/riot-observable@2.4.2/dist/es6.observable.js:156:8: Unexpected reserved word default
+/Users/Anakinlee/.jspm/packages/npm/riot-observable@2.4.2/dist/es6.observable.js:156:16: Semi-colon expected
